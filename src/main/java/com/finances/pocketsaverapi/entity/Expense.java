@@ -19,6 +19,7 @@ public class Expense {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public int id;
+    public String description;
     @Column(nullable = false)
     public Double value;
     public String place;
