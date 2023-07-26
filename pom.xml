@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.finances</groupId>
-	<artifactId>finances-api</artifactId>
+	<artifactId>pocketSaver-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>finances-api</name>
 	<description>App de finanças</description>
