@@ -13,4 +13,5 @@
 ## 
  
 ### Toda a documentação será colocada nos link:
-https://docs.google.com/document/d/16gw7HlSvwcBjdSGyn9LMDeqxI996ZA7LNF02rRzbNoI/edit?usp=sharing
+####  🦋 [Documentação](https://docs.google.com/document/d/16gw7HlSvwcBjdSGyn9LMDeqxI996ZA7LNF02rRzbNoI/edit?usp=sharing)
+####  🦋 [Diagrama E-R](https://lucid.app/lucidchart/c83671e9-bb31-46be-bfbd-46f199348e59/edit?viewport_loc=25%2C0%2C2639%2C1229%2C0_0&invitationId=inv_5b865f35-ced8-4cfb-b798-e9a633b05f9b)
