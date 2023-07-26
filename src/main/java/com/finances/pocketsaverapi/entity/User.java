@@ -1,5 +1,6 @@
 package com.finances.pocketsaverapi.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.Builder;
 import lombok.Getter;
@@ -13,6 +14,7 @@ import java.sql.Date;
 @Builder
 public class User {
 
+    @JsonIgnore
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public int id;
